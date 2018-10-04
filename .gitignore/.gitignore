@@ -26,6 +26,7 @@ wheels/
 .installed.cfg
 *.egg
 .ipynb_checkpoints/
+.ipynb_checkpoints
 MANIFEST
 
 
