@@ -27,6 +27,7 @@ wheels/
 *.egg
 .ipynb_checkpoints/
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 MANIFEST
 
 
