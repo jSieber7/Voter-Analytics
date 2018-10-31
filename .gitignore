@@ -27,6 +27,7 @@ wheels/
 *.egg
 .ipynb_checkpoints/
 .ipynb_checkpoints
+ipynb_checkpoints
 */.ipynb_checkpoints/*
 Scrap_Code.ipynb
 
@@ -151,3 +152,5 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.ipynb_checkpoints/Prelim Modeling-checkpoint.ipynb
+.ipynb_checkpoints/Prelim Modeling-checkpoint.ipynb
