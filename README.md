@@ -2,7 +2,7 @@
 
 This project's primary goal is to create voter profiles using data from the General Social Survey. Two secondary objectives are to learn more about voters and to build a brand centered around voter's preferences.
 
-In order for the code to run, you will need specific packages. The requirements are listed in a anaconda generated requirements text file. To install to a jupyter notebook accessable virtual environment you can follow the code below:
+In order for the code to run, you will need specific packages. The requirements are listed in a anaconda generated requirements text file. To install to a jupyter notebook accessable virtual environment you can follow the anaconda terminal prompts below:
 
 ```
 # New virtual environment with packages used in the analysis
